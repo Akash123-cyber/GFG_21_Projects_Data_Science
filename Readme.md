@@ -19,8 +19,8 @@ The main purpose of this repository is to:
 
 This repository does **not use folders per week**.  
 All files are stored directly in the root directory, named according to their corresponding week or project.
-<br>Like |<br>"
-     <br>|___> project week   ➡️ file_name.ipynb<br>
-     <br>|___> week 1 project ➡️ w1_Data_Story_Telling.ipynb<br>
-     <br>|___> week 2 project ➡️ w2_advance_EDA_Netflix.ipynb<br>
-     <br>|___> etc
+<br>Like |<br>
+     <br>|---> project week   ➡️ file_name.ipynb<br>
+     <br>|---> week 1 project ➡️ w1_Data_Story_Telling.ipynb<br>
+     <br>|---> week 2 project ➡️ w2_advance_EDA_Netflix.ipynb<br>
+     <br>|---> etc
