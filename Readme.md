@@ -1,6 +1,6 @@
-# 📘 21 Weeks • 21 Projects — GeeksforGeeks Program
+# 📘 21 Days • 21 Projects — GeeksforGeeks Program
 
-This repository contains all my work for the **GeeksforGeeks "21 Weeks, 21 Projects" program**.  
+This repository contains all my work for the **GeeksforGeeks "21 Days, 21 Projects" program**.  
 Each project corresponds to one week of learning and focuses on building strong foundations in **programming, data structures, algorithms, and applied development**.
 
 ---
@@ -8,7 +8,7 @@ Each project corresponds to one week of learning and focuses on building strong 
 ## 🧭 Objective
 
 The main purpose of this repository is to:
-- Keep a structured record of each weekly project  
+- Keep a structured record of weekly projects  
 - Reinforce key Data Science concepts through practical implementation  
 - Maintain concise documentation for future reference  
 - Track my learning progress and improvements over time  
